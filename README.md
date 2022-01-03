@@ -1,11 +1,12 @@
-# *Excellent — API для сервисов по поиску учеников и репетиторов*
+# Excellent — API для сервисов по поиску учеников и репетиторов
 
-## **Описание доменной области**
+# Описание доменной области
 
-### **A. Introduction**
+### A. Введение
+Из года в год увеличивается количество учеников и репетиторов, которые помогают школьникам готовиться к сдаче государственных экзаменов и улучшать свои навыки в различных предметах. [По данным интернет-портала Рамблер] (https://news.rambler.ru/sociology/43812515-eksperty-obyasnili-pochemu-k-2021-godu-v-rossii-vyrastet-potrebnost-v-repetitorah/?utm_content=news_media&utm_medium=read_more&utm_source=copylink) "70% российских школьников продолжают посещать репетиторов и курсы дополнительного образования после уроков". Это показывает высокую потребность в квалифицированных кадрах, которые должны поделиться необходимыми знаниями.  
 This document describes background information that has been gathered about events in organizations and how they are handled. This information is to be used to guide the development of software to automate the process of informing people of events.
  
-### **B. Glossary**
+### B. Glossary
 • Event: A meeting, a social occasion or an activity involving a significant number of employees. Several categories of events have been identified:
 -    Open event: An event that starts at a precise instant but with no predetermined duration. Meetings and celebrations often fall into this category.
 -    Fixed event: An event that starts at a precise instant and with a predetermined duration. Course lectures and  seminars are examples of this kind of event.
@@ -13,7 +14,7 @@ This document describes background information that has been gathered about even
 -          Recurrent event: An event that occurs repeatedly on some regular schedule (for example daily, weekly or monthly). The event normally has a starting date and an ending date. Courses and social activities are often recurrent events.
 -          Composite event: An event composed of several sub-events. For example, a training activity can be composed of a registration period (fixed event), a series of seminars (recurrent events), and a final evening celebration (open event). 
  
-### **C. General knowledge about the domain**
+### C. General knowledge about the domain
 •    Most events occur during working days.
 •    Events are generally associated with a location (where the event is to be held).
 •    The name of a contact person is often associated with an event. That person is the one that organize the event or that can give complementary information about the event.
@@ -22,7 +23,7 @@ This document describes background information that has been gathered about even
 •    Each event has a title, a location and the name of a contact person associated with it.
 •    Events may be seen by anyone within the organization, but there should be some control over posting events to reduce the risk of duplicate postings and other clutter.
  
-### **D. Clients and users**
+### D. Clients and users
 Potential clients are medium or large companies whose staff use computers to perform many kinds of daily work. Others impacted by the system will include:
 •   Employees at all levels have an interest in events and are potential users of event manager software. These employees range from computer novices to sophisticated programmers; however they all have a computer on their desk, have access to the corporate intranet and know how to use a web browser. They have been exposed to and accept new technology but are subject to tight time constraints and have little time to learn and customize new software tools.
 •    A system administrator normally manages the computer environment.
@@ -55,3 +56,7 @@ These applications allow you to check for the availability of rooms and to book 
 ### H. Similarities to other domains
 There is a need to share many types of information in any organization, for example the telephone and office numbers of employees. In most cases, updating this information is the responsibility of one designated employee. This is also very similar to personal agenda, except that in the present case, only events of interest to everyone are added to the system.
  
+
+# Use Cases
+
+# Функциональные и нефункциональные требования
