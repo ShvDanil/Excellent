@@ -57,9 +57,10 @@
 
 Второй тип - это компании, ориентирующиеся на одни и те же потребности клиентов одного рынка, то есть Ed-tech рынка. К примеру, это сервисы [Profi.ru](https://profi.ru), [Repetitor.ru](https://repetitor.ru), [Ассоциация репетиторов](https://repetit.ru/?roistat_visit=39748148) и другие.
  
-### H. Similarities to other domains
-There is a need to share many types of information in any organization, for example the telephone and office numbers of employees. In most cases, updating this information is the responsibility of one designated employee. This is also very similar to personal agenda, except that in the present case, only events of interest to everyone are added to the system.
- 
+### Е. Общая информация о сфере
+1. Спрос на услуги частных репетиторов растет, соответственно требуются новые функции для улучшения работы сервисов по поиску преподавателей.
+2. Проанализировав рынок, связанный с услугами в сфере образования, мы выявили нашу нишу - повышение оборота сервисов по подбору репетиторов за счет улучшения качества их работы и сокращение времени, отводимого на поиск преподавателя. 
+3. Примерный оборот рынка частного репетиторства по данным [IQ.HSE](https://iq.hse.ru/news/361059490.html) составляет 100 млрд.руб. Этот оборот - емкость всего рынка.
 
 ## Use Cases
 
