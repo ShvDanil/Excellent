@@ -4,7 +4,9 @@
 ## Описание доменной области
 
 ### A. Введение
-Из года в год увеличивается количество учеников и репетиторов, которые помогают школьникам готовиться к сдаче государственных экзаменов и улучшать свои навыки в различных предметах. [По данным интернет-портала Рамблер](https://news.rambler.ru/sociology/43812515-eksperty-obyasnili-pochemu-k-2021-godu-v-rossii-vyrastet-potrebnost-v-repetitorah/?utm_content=news_media&utm_medium=read_more&utm_source=copylink) "70% российских школьников продолжают посещать репетиторов и курсы дополнительного образования после уроков". Это показывает высокую потребность в квалифицированных кадрах, которые должны поделиться необходимыми знаниями.  
+Из года в год увеличивается количество учеников и репетиторов, которые помогают школьникам готовиться к сдаче государственных экзаменов и улучшать свои навыки в различных предметах. [По данным интернет-портала Рамблер:](https://news.rambler.ru/sociology/43812515-eksperty-obyasnili-pochemu-k-2021-godu-v-rossii-vyrastet-potrebnost-v-repetitorah/?utm_content=news_media&utm_medium=read_more&utm_source=copylink) "70% российских школьников продолжают посещать репетиторов и курсы дополнительного образования после уроков", - а [научно-образовательный портал IQ.HSE](https://iq.hse.ru/news/361059490.html) сообщает о том, что приблизительный оборот рынка частного репетиторства за три года вырос практически на 70 млрд.руб. Это говорит о неотъемлемой потребности в дополнительных занятиях.
+
+
 This document describes background information that has been gathered about events in organizations and how they are handled. This information is to be used to guide the development of software to automate the process of informing people of events.
  
 ### B. Glossary
