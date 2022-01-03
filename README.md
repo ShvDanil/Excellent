@@ -4,7 +4,7 @@
 
 ## Описание доменной области
 
-### A. Введение
+### А. Введение
 Из года в год увеличивается количество учеников и репетиторов, которые помогают школьникам готовиться к сдаче государственных экзаменов и улучшать свои навыки в ходе изучения различных предметов. [По данным интернет-портала Рамблер:](https://news.rambler.ru/sociology/43812515-eksperty-obyasnili-pochemu-k-2021-godu-v-rossii-vyrastet-potrebnost-v-repetitorah/?utm_content=news_media&utm_medium=read_more&utm_source=copylink) "70% российских школьников продолжают посещать репетиторов и курсы дополнительного образования после уроков", - а научно-образовательный портал [IQ.HSE](https://iq.hse.ru/news/361059490.html) сообщает о том, что приблизительный оборот рынка частного репетиторства за три года вырос практически на 70 млрд.руб. Это говорит о неотъемлемой потребности в дополнительных занятиях и показывает необходимость расширения и улучшения рынка сервисов, обеспечивающих учеников кадрами, а также необходимость в самих кадрах.
 
 Из-за многих проблем крупнейшие сервисы и маркетплейсы теряют часть прибыли, а также потенциальную платежеспособную аудиторию. О каких проблемах идет речь?
@@ -17,30 +17,11 @@
 Все это является ключевыми факторами, которые послужили идеей для поиска различных решений. Цель данного программного обеспечения — создать API для сервисов по поиску учеников и репетиторов, которое позволит им экономить время и деньги при поиске друг друга. API будет подбирать репетитора на основе результатов вступительного тестирования ученика, что позволит сделать поиск максимально быстрым, удобным и эффективным. Используя это программное обеспечение, каждая платформа сможет грамотно выстроить взаимодействие между клиентами и репетиторами, повысить доходы и увеличить популярность на рынке.
 
 Доступ к API будет осуществляться в качестве b2b (business to business) решения для конткретного сервиса, где сервис платит за пользование API.
+ 
+### Б. Клиенты и пользователи
+Потенциальные клиенты - это как небольшие онлайн-школы, так и крупные сервисы и маркетплейсы, специализирующиеся на предоставлении услуг в сфере образования. Всего в России насчитывается около сотни сервисов и онлайн-школ, задействованных в сфере образования. Каждая из них в настоящее время активно развивается и расширяет аудиторию своих потенциальных клиентов, а также работает над улучшением user-experience.
 
 
-### B. Glossary
-• Event: A meeting, a social occasion or an activity involving a significant number of employees. Several categories of events have been identified:
--    Open event: An event that starts at a precise instant but with no predetermined duration. Meetings and celebrations often fall into this category.
--    Fixed event: An event that starts at a precise instant and with a predetermined duration. Course lectures and  seminars are examples of this kind of event.
--    Day events: An event associated with a particular day without precise start and end times. Birthday, thematic journey are such events.
--          Recurrent event: An event that occurs repeatedly on some regular schedule (for example daily, weekly or monthly). The event normally has a starting date and an ending date. Courses and social activities are often recurrent events.
--          Composite event: An event composed of several sub-events. For example, a training activity can be composed of a registration period (fixed event), a series of seminars (recurrent events), and a final evening celebration (open event). 
- 
-### C. General knowledge about the domain
-•    Most events occur during working days.
-•    Events are generally associated with a location (where the event is to be held).
-•    The name of a contact person is often associated with an event. That person is the one that organize the event or that can give complementary information about the event.
-•    Group of interest are often created to target more precisely peoples that might be interested by a certain event.
-•    Outdated events are of little interest.
-•    Each event has a title, a location and the name of a contact person associated with it.
-•    Events may be seen by anyone within the organization, but there should be some control over posting events to reduce the risk of duplicate postings and other clutter.
- 
-### D. Clients and users
-Potential clients are medium or large companies whose staff use computers to perform many kinds of daily work. Others impacted by the system will include:
-•   Employees at all levels have an interest in events and are potential users of event manager software. These employees range from computer novices to sophisticated programmers; however they all have a computer on their desk, have access to the corporate intranet and know how to use a web browser. They have been exposed to and accept new technology but are subject to tight time constraints and have little time to learn and customize new software tools.
-•    A system administrator normally manages the computer environment.
-•   Technicians typically install software that must be available to all users.
  
 ### E. The environment
 The actors all have a computer on their desks; it is most common for this to be MS-Windows based, but a significant minority of potential clients use other platforms.
