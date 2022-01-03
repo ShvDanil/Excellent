@@ -50,9 +50,12 @@
 2. Написание проверочной работы позволит внести актуальные данные о знаниях клиента в общую информацию о нем, что облегчит поиск и подбор преподавателя и сэкономит время обеих сторон;
 3. API - гибкое и адаптивное решение для множества различных маркетплейсов, сервисов и онлайн-школ.
 
-### Д. Competing software
-Several software tools exist that can manage events. However, since these are usually included as part of a larger system (e.g. agenda software, email software or teamwork software) they are quite complex to use. Hence they are not generally adopted by the entire staff.
-These applications allow you to check for the availability of rooms and to book them. They might also maintain the personal schedules of staff members such that it is possible to find the best schedule for a given event.
+### Д. Конкуренты
+Познакомившись с конкурирующими решениями, мы можем отметить следующие типы конкурентов: непрямые и косвенные.
+
+К первому типу относятся компании, предлагающие смежные по своим свойствам услуги. Например, это компания Skyeng, мэтчинг клиентов и преподавателей которой происходит благодаря анализу психотипов студентов и учителей: "Мы ведём эксперименты по скорингу учителей с помощью психологических тестов во время отбора", - [заявляет](https://habr.com/ru/post/446970/) руководитель продакт-менеджмента детского направления онлайн-школы.
+
+Второй тип - это компании, ориентирующиеся на одни и те же потребности клиентов одного рынка, то есть Ed-tech рынка. К примеру, это сервисы [Profi.ru](https://profi.ru), [Repetitor.ru](https://repetitor.ru), [Ассоциация репетиторов](https://repetit.ru/?roistat_visit=39748148) и другие.
  
 ### H. Similarities to other domains
 There is a need to share many types of information in any organization, for example the telephone and office numbers of employees. In most cases, updating this information is the responsibility of one designated employee. This is also very similar to personal agenda, except that in the present case, only events of interest to everyone are added to the system.
