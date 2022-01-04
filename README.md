@@ -130,3 +130,5 @@
 
 *<ins>[Общая схема паттерна](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Request_Reply_pattern.png)</ins>*                          
 ![Request/Reply pattern](./readme_images/Request_Reply_pattern.png)
+
+
