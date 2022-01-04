@@ -116,6 +116,5 @@
 ### Client / Server / Service pattern
 Перед разработкой возникает вопрос, как возможно связать SOA с пользовательским интерфейсом сервиса, где клиентская сторона не поддерживает SOA или использует несовместимые с данной архитектурой технологии? Для этого используем **Client/Server/Service pattern**, позволяющий связать сервис с нашим API. Интеграция данного паттерна в качестве нового сервиса на серверной стороне позволит минимизировать воздействие на UI и иные существующие системы. Далее будет представлена схема данного паттерна где роль нашего API изображает нижний слой server agent'а и его взаимодействие с сервервами А и В.
 
-*<ins>[Общая схема паттерна](https://github.com/ShvDanil/Excellent/blob/main/Client_Server_Service_pattern.png)</ins>*
-
+*<ins>[Общая схема паттерна](https://github.com/ShvDanil/Excellent/blob/main/Client_Server_Service_pattern.png)</ins>* 
 ![Client/Server/Service pattern](./Client_Server_Service_pattern.png)
