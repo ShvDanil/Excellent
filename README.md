@@ -194,7 +194,7 @@
 
 **Альтернативные сценарии:** --
 
-<ins>[Диаграмма, изображающая **Use cases**](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Use_cases_diagram.png)</ins>
+*<ins>[Диаграмма, изображающая **Use cases**](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Use_cases_diagram.png)</ins>*
 ![Use cases diagram](./readme_images/Use_cases_diagram.png)
 
 
