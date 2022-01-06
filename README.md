@@ -317,15 +317,15 @@ It contains information about the domain analysis, use cases, functional and non
 
 
 ## Contents at a Glance
-* [Domain analysis](./README_ENG.md#Domain-analysis)
+* [Domain analysis](./README.md#Domain-analysis)
 
-* [Use cases](./README_ENG.md#Use-Cases)
+* [Use cases](./README.md#Use-Cases)
 
-* [Functional and non-functional requirements](./README_ENG.md#Functional-and-non-functional-requirements)
+* [Functional and non-functional requirements](./README.md#Functional-and-non-functional-requirements)
 
-* [Component model](./README_ENG.md#Component-model)
+* [Component model](./README.md#Component-model)
 
-* [Reference architecture and patterns](./README_ENG.md#Reference-architecture-and-patterns)
+* [Reference architecture and patterns](./README.md#Reference-architecture-and-patterns)
 
 
 ## Domain analysis
@@ -544,6 +544,8 @@ First of all, client is a website, program or service that uses our API.
 
 8. The system must be decomposed and allow changes to the source code without prejudice.
 
+*<ins>[**Use cases** diagram](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Use_cases.png)</ins>*
+![Use cases diagram](./readme_images/Use_cases.png)
 
 ## Component model
 *<ins>[Component diagram of solution](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Component_model.png)</ins>*
