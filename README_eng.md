@@ -1,4 +1,4 @@
-# Excellent - API for student and tutor search services
+## API for student and tutor search services
 This repository describes the solution of the case **Excellent - API for student and tutor search services**. 
 It contains information about the domain analysis, use cases, functional and non-functional requirements, component model, proposed architecture and patterns of the solution.
 
