@@ -2,9 +2,7 @@
 
 * [RU - russian version](./README.md#RU---russian-version)
 
-
-* [ENG - english version](./README.md#API-for-student-and-tutor-search-services)
-
+* [ENG - english version](./README.md#ENG---english-version)
 
 ![](./readme_images/EXCELLENT.png)
 
@@ -311,6 +309,7 @@ API будет являться b2b (business to business) решением дл
 ![Request/Reply pattern](./readme_images/Request_Reply_pattern.png)
 
 
+# ENG - english version
 
 ## API for student and tutor search services
 This repository describes the solution of the case **Excellent - API for student and tutor search services**. 
