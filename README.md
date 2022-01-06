@@ -507,6 +507,9 @@ First of all, client is a website, program or service that uses our API.
 
 **Alternative scenarios:** --
 
+*<ins>[**Use cases** diagram](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Use_cases.png)</ins>*                           
+![Use cases diagram](./readme_images/Use_cases.png)
+
 
 ## Functional and non-functional requirements 
 
@@ -544,8 +547,6 @@ First of all, client is a website, program or service that uses our API.
 
 8. The system must be decomposed and allow changes to the source code without prejudice.
 
-*<ins>[**Use cases** diagram](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Use_cases.png)</ins>*
-![Use cases diagram](./readme_images/Use_cases.png)
 
 ## Component model
 *<ins>[Component diagram of solution](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Component_model.png)</ins>*
