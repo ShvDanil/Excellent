@@ -194,8 +194,8 @@
 
 **Альтернативные сценарии:** --
 
-*<ins>[Диаграмма, изображающая **Use cases**](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Use_cases_diagram.png)</ins>*
-![Use cases diagram](./readme_images/Use_cases_diagram.png)
+*<ins>[Диаграмма, изображающая **Use cases**](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Use_cases.png)</ins>*
+![Use cases diagram](./readme_images/Use_cases.png)
 
 
 ## Функциональные и нефункциональные требования
@@ -236,8 +236,8 @@
 
 
 ## Компонентная модель
-*<ins>[Компонентная диагрмма решения](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Component_diagram.png)</ins>*
-![Компонентная диагрмма](./readme_images/Component_diagram.png)
+*<ins>[Компонентная диагрмма решения](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Component_model.png)</ins>*
+![Компонентная диагрмма](./readme_images/Component_model.png)
 
 Выше представлена компонентная диаграмма решения. Связь клиент-сервера и API, отвечающего за выполнение всей работы, реализуется за счет внутренних компонентов, находящихся внутри общей системы. Каждый компонент - подсистема, выполняющая определнную задачу, реализующая конкретную функцию. Так, схема содержит несколько копонентов:
 * **Обработчик запроса (Request Handler).** Эта подсистема отвечает за получение запроса с сервера и передачу его контроллеру.
