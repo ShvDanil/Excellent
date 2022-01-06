@@ -4,15 +4,15 @@ It contains information about the domain analysis, use cases, functional and non
 
 
 ## Contents at a Glance
-* [Domain analysis](./README.md#Описание-доменной-области)
+* [Domain analysis](./README_ENG.md#Domain-analysis)
 
-* [Use cases](./README.md#Use-Cases)
+* [Use cases](./README_ENG.md#Use-Cases)
 
-* [Functional and non-functional requirements](./README.md#Функциональные-и-нефункциональные-требования)
+* [Functional and non-functional requirements](./README_ENG.md#Functional-and-non-functional-requirements)
 
-* [Component model](./README.md#Компонентная-модель)
+* [Component model](./README_ENG.md#Component-model)
 
-* [Reference architecture and patterns](./README.md#Референсная-архитектура-и-паттерны)
+* [Reference architecture and patterns](./README_ENG.md#Reference-architecture-and-patterns)
 
 
 ## Domain analysis
