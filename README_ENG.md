@@ -252,7 +252,7 @@ There is a component diagram of a solution above this paragraph. The communicati
 Reference architecture and patterns that fit the domain are key things during the project development.
 
 ### SOA - Service Oriented Architecture
-First of all, list of [basic elements of SOA](https://www.ibm.com/ru-ru/cloud/learn/soa):
+First of all, list of [basic elements of SOA](https://www.ibm.com/cloud/learn/soa):
 * Services;
 
 * Service bus;
