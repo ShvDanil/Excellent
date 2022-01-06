@@ -17,7 +17,7 @@
 ## Содержание
 * [Описание доменной области](./README.md#Описание-доменной-области)
 
-* [Use Cases](./README.md#Use-Cases-(RU))
+* [Use Cases](./README.md#Use-Cases-RU)
 
 * [Функциональные и нефункциональные требования](./README.md#Функциональные-и-нефункциональные-требования)
 
@@ -99,7 +99,7 @@ API будет являться b2b (business to business) решением дл
 3. Примерный оборот рынка частного репетиторства по данным [IQ.HSE](https://iq.hse.ru/news/361059490.html) составляет 100 млрд.руб. Этот оборот - емкость всего рынка.
 
 
-## Use Cases (RU)
+## Use Cases RU
 
 ### А. Получение проверочной работы
 
@@ -319,7 +319,7 @@ It contains information about the domain analysis, use cases, functional and non
 ## Contents at a Glance
 * [Domain analysis](./README.md#Domain-analysis)
 
-* [Use cases](./README.md#Use-Cases)
+* [Use cases](./README.md#Use-Cases-ENG)
 
 * [Functional and non-functional requirements](./README.md#Functional-and-non-functional-requirements)
 
@@ -402,7 +402,7 @@ The second type describes companies that focus on the same needs of customers of
 3. According to [IQ.HSE](https://iq.hse.ru/news/361059490.html), the approximate turnover of the tutoring market is 100 billion rubles. This turnover is the capacity of the entire market.
 
 
-## Use cases
+## Use cases ENG
 First of all, client is a website, program or service that uses our API.
 
 ### Getting a screening test
