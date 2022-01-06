@@ -1,7 +1,7 @@
 # Excellent 
-* [RU - russian version](./README.md#API-для-сервисов-по-поиску-учеников-и-репетиторов)
 
-* [ENG](./README.md#)
+[RU - russian version](./README.md#API-для-сервисов-по-поиску-учеников-и-репетиторов)          /          [ENG - english version](./README.md#)
+
 
 
 ## API для сервисов по поиску учеников и репетиторов
