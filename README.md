@@ -1,8 +1,15 @@
 # Excellent 
 
-[RU - russian version](./README.md#API-для-сервисов-по-поиску-учеников-и-репетиторов) / [ENG - english version](./README.md#API-for-student-and-tutor-search-services)
+* [RU - russian version](./README.md#RU---russian-version)
 
-![]()
+
+* [ENG - english version](./README.md#API-for-student-and-tutor-search-services)
+
+
+![](./readme_images/EXCELLENT.png)
+
+
+# RU - russian version
 
 ## API для сервисов по поиску учеников и репетиторов
 В этом репозитории описано решение кейса **Excellent — API для сервисов по поиску учеников и репетиторов**.
