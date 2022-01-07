@@ -25,6 +25,8 @@
 
 * [Референсная архитектура и паттерны](./README.md#Референсная-архитектура-и-паттерны)
 
+* [Дизайн решения](./README.md#Дизайн-решения)
+
 
 ## Описание доменной области
 
@@ -309,6 +311,11 @@ API будет являться b2b (business to business) решением дл
 ![Request/Reply pattern](./readme_images/Request_Reply_pattern.png)
 
 
+## Дизайн решения
+Итак, итоговый дизайн решения. Он изображен здесь:
+![Дизайн решения](./readme_images/Design_solution.png)
+
+
 # ENG - english version
 
 ## API for student and tutor search services
@@ -326,6 +333,8 @@ It contains information about the domain analysis, use cases, functional and non
 * [Component model](./README.md#Component-model)
 
 * [Reference architecture and patterns](./README.md#Reference-architecture-and-patterns)
+
+* [Design solution](./README.md#Design-solution)
 
 
 ## Domain analysis
@@ -610,3 +619,7 @@ For this case, we need a **Request / Reply pattern** that fully satisfies the re
 *<ins>[Common pattern scheme](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Request_Reply_pattern.png)</ins>*                          
 ![Request/Reply pattern](./readme_images/Request_Reply_pattern.png)
 
+
+## Design solution
+Here you can see the final solution design:
+![Design solution](./readme_images/Design_solution.png)
