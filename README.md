@@ -312,7 +312,7 @@ API будет являться b2b (business to business) решением дл
 
 
 ## Дизайн решения
-Итак, итоговый дизайн решения. Он изображен здесь:
+Итак, *<ins>[итоговый дизайн решения](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Design_solution.png)</ins>*. Он изображен здесь:
 ![Дизайн решения](./readme_images/Design_solution.png)
 
 
@@ -621,5 +621,5 @@ For this case, we need a **Request / Reply pattern** that fully satisfies the re
 
 
 ## Design solution
-Here you can see the final solution design:
+Here you can see the *<ins>[final solution design](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Design_solution.png)</ins>*:
 ![Design solution](./readme_images/Design_solution.png)
