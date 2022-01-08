@@ -288,8 +288,8 @@ API будет являться b2b (business to business) решением дл
 
 * **Слой передачи данных (Data Link layer)** отвечает за взаимодействие API с базой данных, обеспечивая хранение и обработку информации, которая не связана с бизнесом.
 
-Теперь посмотрим на то, как выглядит [монолитная архитектура и ее слои](https://github.com/ShvDanil/Excellent/blob/main/readme_images/monolithic_architecture.png) на схеме:
-![Монолитная архитектура](./readme_images/monolithic_architecture.png)
+Теперь посмотрим на то, как выглядит [монолитная архитектура и ее слои](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Monolithic_architecture.png) на схеме:
+![Монолитная архитектура](./readme_images/Monolithic_architecture.png)
 
 ### Сервис-ориентированная архитектура (SOA)
 Один из [основных источников](https://www.ibm.com/ru-ru/cloud/learn/soa) о сервис-ориентированной архитектуре определяет ее следующие базовые элементы:
@@ -330,12 +330,12 @@ API будет являться b2b (business to business) решением дл
 
 
 ## Дизайн решения
-Итак, *<ins>[итоговый дизайн решения](https://github.com/ShvDanil/Excellent/blob/main/readme_images/monolithic_architecture.png)</ins>*. Он изображен здесь:
-![Дизайн решения](./readme_images/monolithic_architecture.png)
-![](./readme_images/presentation_layer.png)
-![](./readme_images/business_logic_layer.png)
-![](./readme_images/data_access_layer.png)
-![](./readme_images/data_storage_unit.png)
+Итак, *<ins>[итоговый дизайн решения](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Monolithic_architecture.png)</ins>*. Он изображен здесь:
+![Дизайн решения](./readme_images/Monolithic_architecture.png)
+![](./readme_images/Presentation_layer.png)
+![](./readme_images/Business_logic_layer.png)
+![](./readme_images/Data_access_layer.png)
+![](./readme_images/Data_storage_unit.png)
 
 # ENG - english version
 
