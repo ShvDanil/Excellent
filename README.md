@@ -335,7 +335,7 @@ API будет являться b2b (business to business) решением дл
 ![](./readme_images/presentation_layer.png)
 ![](./readme_images/business_logic_layer.png)
 ![](./readme_images/data_access_layer.png)
-![](./readme_images/data_storage_unit .png)
+![](./readme_images/data_storage_unit.png)
 
 # ENG - english version
 
