@@ -4,7 +4,7 @@
 
 * [ENG - english version](./README.md#ENG---english-version)
 
-![](./readme_images/EXCELLENT.png)
+![](./readme_images/Excellent.png)
 
 
 # RU - russian version
