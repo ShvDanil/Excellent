@@ -341,7 +341,7 @@ API будет являться b2b (business to business) решением дл
 *[1 - Presentation layer](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Presentation_layer.png)*
 ![](./readme_images/Presentation_layer.png)
 
-Пользователь решает воспользоваться нашей функцией, выбирает предмет, по котрому он хочет решить вариант и отправляет запрос на сервер EdTech платформы, которая перенаправляет данный запрос для отработки API.
+Пользователь решает воспользоваться новой возможностью подобрать себе репетитора, выбирает предмет, по котрому он хочет решить вариант и отправляет запрос на сервер EdTech платформы, которая перенаправляет данный запрос для отработки API.
 
 *[2 - Business Logic Layer](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Business_Logic_layer.png)*
 ![](./readme_images/Business_Logic_layer.png)
