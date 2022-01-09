@@ -203,8 +203,8 @@ API будет являться b2b (business to business) решением дл
 
 **Альтернативные сценарии:** --
 
-*<ins>[Диаграмма, изображающая **Use cases**]()</ins>*
-![Use cases diagram](./readme_images/Use_cases.png)
+*<ins>[Диаграмма, изображающая **Use cases**](https://github.com/ShvDanil/Excellent/blob/main/readme_images/use%20cases.png)</ins>*
+![Use cases diagram](./readme_images/use-cases.png)
 
 
 ## Функциональные и нефункциональные требования
