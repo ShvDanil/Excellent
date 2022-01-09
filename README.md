@@ -343,8 +343,8 @@ API будет являться b2b (business to business) решением дл
 
 Пользователь решает воспользоваться нашей функцией, выбирает предмет, по котрому он хочет решить вариант и отправляет запрос на сервер EdTech платформы, которая перенаправляет данный запрос для отработки API.
 
-**[2 - Business Logic Layer](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Business_logic_layer.png)**
-![](./readme_images/Business_logic_layer.png)
+**[2 - Business Logic Layer](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Business_Logic_layer.png)**
+![](./readme_images/Business_Logic_layer.png)
 
 Это основной слой, на котором зиждется практически весь функционал.
 
@@ -359,9 +359,8 @@ I.
 
 
 
-![](./readme_images/Business_logic_layer.png)
 ![](./readme_images/Data_access_layer.png)
-![](./readme_images/Data_storage_unit.png)
+![](./readme_images/Data_Storage_unit.png)
 
 # ENG - english version
 
