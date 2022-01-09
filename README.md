@@ -338,12 +338,12 @@ API будет являться b2b (business to business) решением дл
 
 Давайте проанализируем каждую часть (каждый слой) дизайна и покажем, как происходит полный цикл отработки API.
 
-*[1 - Presentation layer](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Presentation_layer.png)*
+*<ins>[1 - Presentation layer](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Presentation_layer.png)</ins>*
 ![](./readme_images/Presentation_layer.png)
 
 Пользователь решает воспользоваться новой возможностью подобрать себе репетитора, выбирает предмет, по котрому он хочет решить вариант и отправляет запрос на сервер EdTech платформы, которая перенаправляет данный запрос для отработки API.
 
-*[2 - Business Logic Layer](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Business_Logic_layer.png)*
+*<ins>[2 - Business Logic Layer](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Business_Logic_layer.png)</ins>*
 ![](./readme_images/Business_Logic_layer.png)
 
 Это основной слой, на котором зиждется практически весь функционал.
@@ -356,7 +356,9 @@ I.
 
 3. Управление передается обратно с помощью сервисного репозитория в ESB для возвращения сгенерированного варианта пользователю.
 
-На этом завершается первый цикл работы API. Для активации второго цикла необходимо, чтобы пользователь решил тест и отправил результаты для получения рекомендаций. Представим, что на сервер платформы поступил ответ от пользователя, соответственно на API также поступил запрос.
+На этом завершается первый цикл работы API. Для активации второго цикла необходимо, чтобы пользователь решил тест и отправил результаты для получения рекомендаций. 
+
+Представим, что на сервер платформы поступил ответ от пользователя, соответственно на API также поступил запрос.
 
 II.
 
@@ -368,12 +370,12 @@ II.
 
 На этом заврешается полный цикл работы API.
 
-*[3 - Data Access Layer](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Data_access_layer.png)*
+*<ins>[3 - Data Access Layer](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Data_access_layer.png)</ins>*
 ![](./readme_images/Data_access_layer.png)
 
 Этот слой иллюстрирует то, как сервисы из слоя бизнес-логики обращаются к базе данных API для получения или сохранения каких-либо данных о пользователях и вариантах, которые они решали.
 
-*[4 - Data Storage Unit](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Data_Storage_unit.png)*
+*<ins>[4 - Data Storage Unit](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Data_Storage_unit.png)</ins>*
 ![](./readme_images/Data_Storage_unit.png)
 
 Это краткая и схематическая версия таблиц базы данных API, основная цель которых - хранить информацию о пользователях, тестах и рекомендациях, основанных на их знаниях.
