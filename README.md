@@ -239,8 +239,8 @@ API будет являться b2b (business to business) решением дл
 
 
 ## Компонентная модель
-*<ins>[Компонентная диагрмма решения](https://github.com/ShvDanil/Excellent/blob/main/readme_images/Component_model.png)</ins>*       
-![Компонентная диагрмма](./readme_images/Component_model.png)
+*<ins>[Компонентная диагрмма решения](https://github.com/ShvDanil/Excellent/blob/main/readme_images/API_Component_model.png)</ins>*       
+![Компонентная диагрмма](./readme_images/API_Component_model.png)
 
 Выше представлена компонентная диаграмма решения, созданная по информации о лучших практиках [IBM](https://developer.ibm.com/articles/the-component-diagram/). 
 
