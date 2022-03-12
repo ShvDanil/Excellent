@@ -346,7 +346,7 @@ II. Запрос поступает в API Gateway, который подклю�
 1. Необходимо запустить файл docker-compose.yaml командой docker-compose up, находясь в директории с этим файлом.
 
 2. Сервисы должны быть доступны по следующим адресам:
-* localhost:5022 - Test Generation Microservice;
-* localhost:5065 - Test Results Analysis Microservice;
-* localhost:5082 - Test Results Generation Microservice;
-* localhost:8000 - Test Parser Microservice;
+	* localhost:5022 - Test Generation Microservice;
+	* localhost:5065 - Test Results Analysis Microservice;
+	* localhost:5082 - Test Results Generation Microservice;
+	* localhost:8000 - Test Parser Microservice;
