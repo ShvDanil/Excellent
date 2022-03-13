@@ -21,7 +21,7 @@
 
 * [Дизайн решения](./README.md#Дизайн-решения)
 
-* [Docker + Docker Compose + Инструкция к запуску](./README.md#Docker-+-Docker-Compose-+-Инструкция-к-запуску)
+* [Docker Compose и инструкция к запуску](./README.md#Docker-Compose-и-инструкция-к-запуску)
 
 
 ## Описание доменной области
@@ -336,13 +336,13 @@ II. Запрос подключает необходимые для работы
 На этом завершается полный цикл работы API.
 
 
-## Docker + Docker Compose + Инструкция к запуску
+## Docker Compose и инструкция к запуску
 ### Docker / Docker compose
 Для создания инфраструктуры используется <code>Docker</code>.
 
 Он состоит из 4 контейнеров, оркестрируемых с помощью Docker Compose в соответствии с реализованной нами архитектурой.
-![Docker](./readme_images/Docker_Compose.png)
 
+![Docker](./readme_images/Docker_Compose.png)
 
 ### Инструкция к запуску
 Все четыре сервиса находятся в данном репозитории в папке Microservices. Скачав данную папку, их можно запустить с помощью Docker Compose.
