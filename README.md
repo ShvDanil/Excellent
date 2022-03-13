@@ -243,23 +243,23 @@ API будет являться b2b (business to business) решением дл
 
 Связь пользователя, платформы и API, отвечающего за выполнение всей работы, реализуется за счет внутренних компонентов, находящихся в общей системе. Каждый компонент - система (далее микросервис), выполняющая определенную задачу, реализующая конкретный функционал. Так, схема содержит несколько компонентов (микросервисов):
 
-* <code>**Test Generation Microservice (TGM).**</code> 
+* <code>**Test Generation Microservice (TGM)**</code> 
 
 Эта система регулирует процесс создания тестов для пользователей.
 
-* <code>**Test Parser Microservice (TPM).**</code> 
+* <code>**Test Parser Microservice (TPM)**</code> 
 
 Эта система возвращает в тело обработчика запроса созданный тест для его передачи на сервер платформы.
 
-* <code>**Test Results Analysis Microservice (TRAM).**</code> 
+* <code>**Test Results Analysis Microservice (TRAM)**</code> 
 
 Эта система регулирует процесс обработки результатов пользователей и создания рекомендаций для них.
 
-* <code>**Test Recommendation Generation Microservice (TRGM).**</code> 
+* <code>**Test Recommendation Generation Microservice (TRGM)**</code> 
 
 Эта система генерирует рекомендации для пользователей в зависимости от результатов теста, написанного ими ранее.
 
-* <code>**Results & Answers Database.**</code> 
+* <code>**Results & Answers Database**</code> 
 
 Это база данных, которая содержит информацию о правильных ответах, ответах пользователя и рекомендациях для пользователей в зависимости от результатов теста, написанного ими.
 
