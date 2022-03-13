@@ -353,10 +353,10 @@ II. Запрос подключает необходимые для работы
 1. Необходимо запустить файл <code>docker-compose.yaml</code> командой <code>docker-compose up</code> из терминала, находясь в директории с этим файлом.
 
 2. Сервисы должны быть доступны по следующим адресам:
-	* <code>localhost:5022</code> - Test Generation Microservice;
+	* <code>localhost:5022:80</code> - Test Generation Microservice;
 
-	* <code>localhost:5065</code> - Test Results Analysis Microservice;
+	* <code>localhost:5065:80</code> - Test Results Analysis Microservice;
 
-	* <code>localhost:5082</code> - Test Results Generation Microservice;
+	* <code>localhost:5082:80</code> - Test Results Generation Microservice;
 
-	* <code>localhost:8000</code> - Test Parser Microservice;
+	* <code>localhost:8000:80</code> - Test Parser Microservice;
