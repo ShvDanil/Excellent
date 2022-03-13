@@ -303,8 +303,8 @@ API будет являться b2b (business to business) решением дл
 
 
 ## Дизайн решения
-Итак, *<ins>[итоговый дизайн решения](https://github.com/ShvDanil/Excellent/blob/main/readme_images/API_Design_Solution.png)</ins>*. Он изображен здесь:
-![Дизайн решения](./readme_images/API_Design_Solution.png)
+Итак, *<ins>[итоговый дизайн решения](https://github.com/ShvDanil/Excellent/blob/main/readme_images/API_Design.png)</ins>*. Он изображен здесь:
+![Дизайн решения](./readme_images/API_Design.png)
 
 Данное решение будет развернуто на облачной платформе Microsoft Azure. Каждый микросервис будет лежать в Docker контейнере, которые будут находиться в отдельном кластере. Взаимодействие и оркестрация контейнеров кластера будет обеспечена благодаря технологии Docker Compose.
 
