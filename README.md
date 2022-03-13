@@ -21,7 +21,7 @@
 
 * [Дизайн решения](./README.md#Дизайн-решения)
 
-* [Docker / Docker Compose / Инструкция к запуску](./README.md#Docker / Docker Compose / Инструкция к запуску)
+* [Docker / Docker Compose / Инструкция к запуску](./README.md#Docker@/@Docker@Compose@/@Инструкция@к@запуску)
 
 
 ## Описание доменной области
