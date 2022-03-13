@@ -306,7 +306,7 @@ API будет являться b2b (business to business) решением дл
 Для создания инфраструктуры используется <code>Docker</code>.
 
 Он состоит из 4 контейнеров в соответствии с реализованной нами архитектурой.
-[](.readme_images/)
+![Docker](.readme_images/Docker.png)
 
 ## Дизайн решения
 Итак, *<ins>[итоговый дизайн решения](https://github.com/ShvDanil/Excellent/blob/main/readme_images/API_Design_Solution.png)</ins>*. Он изображен здесь:
