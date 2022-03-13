@@ -199,9 +199,6 @@ API будет являться b2b (business to business) решением дл
 
 **Альтернативные сценарии:** --
 
-*<ins>[Диаграмма, изображающая **Use cases**](https://github.com/ShvDanil/Excellent/blob/main/readme_images/use_cases.png)</ins>*
-![Use cases diagram](./readme_images/use_cases.png)
-
 
 ## Функциональные и нефункциональные требования
 
