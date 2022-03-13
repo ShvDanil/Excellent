@@ -343,10 +343,10 @@ II. Запрос поступает в API Gateway, который подклю�
 Все четыре сервиса находятся в данном репозитории в папке Microservices. Скачав данную папку, их можно запустить с помощью Docker Compose.
 
 ### Docker compose
-1. Необходимо запустить файл docker-compose.yaml командой docker-compose up, находясь в директории с этим файлом.
+1. Необходимо запустить файл <code>docker-compose.yaml</code> командой <code>docker-compose up</code>, находясь в директории с этим файлом.
 
 2. Сервисы должны быть доступны по следующим адресам:
 	* <code>localhost:5022</code> - Test Generation Microservice;
-	* localhost:5065 - Test Results Analysis Microservice;
-	* localhost:5082 - Test Results Generation Microservice;
-	* localhost:8000 - Test Parser Microservice;
+	* <code>localhost:5065</code> - Test Results Analysis Microservice;
+	* <code>localhost:5082</code> - Test Results Generation Microservice;
+	* <code>localhost:8000</code> - Test Parser Microservice;
