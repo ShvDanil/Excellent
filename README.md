@@ -347,6 +347,9 @@ II. Запрос поступает в API Gateway, который подклю�
 
 2. Сервисы должны быть доступны по следующим адресам:
 	* <code>localhost:5022</code> - Test Generation Microservice;
+
 	* <code>localhost:5065</code> - Test Results Analysis Microservice;
+
 	* <code>localhost:5082</code> - Test Results Generation Microservice;
+
 	* <code>localhost:8000</code> - Test Parser Microservice;
