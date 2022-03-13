@@ -21,7 +21,7 @@
 
 * [Дизайн решения](./README.md#Дизайн-решения)
 
-* [Docker / Docker Compose / Инструкция к запуску](./README.md#Docker@/@Docker@Compose@/@Инструкция@к@запуску)
+* [Docker & Docker Compose & Инструкция к запуску](./README.md#Docker-&-Docker-Compose-&-Инструкция-к-запуску)
 
 
 ## Описание доменной области
@@ -336,7 +336,7 @@ II. Запрос подключает необходимые для работы
 На этом завершается полный цикл работы API.
 
 
-## Docker / Docker Compose / Инструкция к запуску
+## Docker & Docker Compose & Инструкция к запуску
 ### Docker / Docker compose
 Для создания инфраструктуры используется <code>Docker</code>.
 
