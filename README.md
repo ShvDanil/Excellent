@@ -23,6 +23,8 @@
 
 * [Docker Compose и инструкция к запуску](./README.md#Docker-Compose-и-инструкция-к-запуску)
 
+* [Полезные ссылки](./README.md#Полезные-ссылки)
+
 
 ## Описание доменной области
 
@@ -360,3 +362,7 @@ II. Запрос подключает необходимые для работы
 	* <code>localhost:5082:80</code> - Test Results Generation Microservice;
 
 	* <code>localhost:8000:80</code> - Test Parser Microservice;
+
+
+## Полезные ссылки
+* Cсылка на [GitHub репозиторий](https://github.com/ginalig/nis-front-razer) фронтенда, написанного для демонстрации работы данного API.
