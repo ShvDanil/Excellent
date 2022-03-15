@@ -354,25 +354,27 @@ II. Запрос подключает необходимые для работы
 
 В терминале необходимо перейти в директорию проекта (Excellent/Microservices)
 Далее необходимо вводить команды по порядку: 
-<code>cd TPM
-docker build -t tpm .
-cd ..
-cd TRAM
-cd TRAM
-docker build -t tram .
-cd ..
-cd ..
-cd TRGM
-cd TRGM
-docker build -t trgm .
-cd ..
-cd ..
-cd TGM
-cd TGM
-docker build -t tgm .
-cd ..
-cd ..
-docker-compose up</code>
+<code>
+	cd TPM
+	docker build -t tpm .
+	cd ..
+	cd TRAM
+	cd TRAM
+	docker build -t tram .
+	cd ..
+	cd ..
+	cd TRGM
+	cd TRGM
+	docker build -t trgm .
+	cd ..
+	cd ..
+	cd TGM
+	cd TGM
+	docker build -t tgm .
+	cd ..
+	cd ..
+	docker-compose up
+</code>
 Для запуска приложения нужно перейти по ссылке: http://localhost:7001
 
 
