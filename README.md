@@ -358,26 +358,26 @@ II. Запрос подключает необходимые для работы
 	
 * Чтобы создать образ каждого микросервиса в Docker:
 ```
-	cd TPM
-	docker build -t tpm .
-	cd ..
-	cd TRAM/TRAM
-	docker build -t tram .
-	cd ../..
-	cd TRGM/TRGM
-	docker build -t trgm .
-	cd ../..
-	cd TGM/TGM
-	docker build -t tgm .
-	cd ../..
-	cd frontend
-	docker build -t frontend .
-	cd ..
+cd TPM
+docker build -t tpm .
+cd ..
+cd TRAM/TRAM
+docker build -t tram .
+cd ../..
+cd TRGM/TRGM
+docker build -t trgm .
+cd ../..
+cd TGM/TGM
+docker build -t tgm .
+cd ../..
+cd frontend
+docker build -t frontend .
+cd ..
 ```
 
 * Чтобы запустить веб-приложение:
 ```	
-	docker-compose up
+docker-compose up
 ```
 
 Для запуска приложения нужно перейти по ссылке: <code>http://localhost:7001</code>
