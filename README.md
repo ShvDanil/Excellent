@@ -382,21 +382,20 @@ II. Запрос подключает необходимые для работы
 Для запуска приложения нужно перейти по ссылке: <code>http://localhost:7001</code>
 
 Видео <u>работы в терминале</u> по установке и запуске:
+
 https://user-images.githubusercontent.com/90272827/158327249-87b2f9e7-a33b-4dc4-88e2-543363cc56bc.mp4
 
 
+Сами сервисы, отвечающие за backend, должны быть доступны по следующим адресам:
 
-1. Необходимо запустить файл <code>docker-compose.yaml</code> командой <code>docker-compose up</code> из терминала, находясь в директории с этим файлом.
+* <code>localhost:5022:80</code> - Test Generation Microservice;
 
-2. Сервисы должны быть доступны по следующим адресам:
-	* <code>localhost:5022:80</code> - Test Generation Microservice;
+* <code>localhost:5065:80</code> - Test Results Analysis Microservice;
 
-	* <code>localhost:5065:80</code> - Test Results Analysis Microservice;
+* <code>localhost:5082:80</code> - Test Results Generation Microservice;
 
-	* <code>localhost:5082:80</code> - Test Results Generation Microservice;
-
-	* <code>localhost:8000:80</code> - Test Parser Microservice;
+* <code>localhost:8000:80</code> - Test Parser Microservice;
 
 
 ## Полезные ссылки
-* Cсылка на [GitHub репозиторий](https://github.com/ginalig/nis-front-razer) фронтенда, написанного для демонстрации работы данного API.
+
