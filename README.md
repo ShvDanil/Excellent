@@ -350,7 +350,36 @@ II. Запрос подключает необходимые для работы
 ![Docker](./readme_images/Docker_Compose.png)
 
 ### Инструкция к запуску
-Все четыре сервиса находятся в данном репозитории в папке Microservices. Скачав данную папку, их можно запустить с помощью Docker Compose.
+Все четыре сервиса и фронтенд, написанный для демонстрации работы API, находятся в данном репозитории в папке Microservices. Скачав данную папку, их можно запустить с помощью Docker Compose.
+
+В терминале необходимо перейти в директорию проекта (Excellent/Microservices)
+Далее необходимо вводить команды по порядку: 
+<code>cd TPM
+docker build -t tpm .
+cd ..
+cd TRAM
+cd TRAM
+docker build -t tram .
+cd ..
+cd ..
+cd TRGM
+cd TRGM
+docker build -t trgm .
+cd ..
+cd ..
+cd TGM
+cd TGM
+docker build -t tgm .
+cd ..
+cd ..
+docker-compose up</code>
+Для запуска приложения нужно перейти по ссылке: http://localhost:7001
+
+
+
+https://user-images.githubusercontent.com/90272827/158327249-87b2f9e7-a33b-4dc4-88e2-543363cc56bc.mp4
+
+
 
 1. Необходимо запустить файл <code>docker-compose.yaml</code> командой <code>docker-compose up</code> из терминала, находясь в директории с этим файлом.
 
