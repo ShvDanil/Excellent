@@ -356,7 +356,7 @@ II. Запрос подключает необходимые для работы
 
 Далее необходимо вводить команды по порядку: 
 	
-	//to install images of each microservice:
+	// to install images of each microservice:
 	
 	cd TPM
 	docker build -t tpm .
@@ -374,27 +374,27 @@ II. Запрос подключает необходимые для работы
 	docker build -t frontend .
 	cd ..
 	
-	//to launch web application:
+	// to launch web application:
 	
 	docker-compose up
 
 
 Для запуска приложения нужно перейти по ссылке: <code>http://localhost:7001</code>
 
-Видео <u>работы в терминале</u> по установке и запуске:
+Видео работы в терминале:
 
 https://user-images.githubusercontent.com/90272827/158327249-87b2f9e7-a33b-4dc4-88e2-543363cc56bc.mp4
 
 
 Сами сервисы, отвечающие за backend, должны быть доступны по следующим адресам:
 
-* <code>localhost:5022:80</code> - Test Generation Microservice;
+* <code>http://localhost:5022:80</code> - Test Generation Microservice;
 
-* <code>localhost:5065:80</code> - Test Results Analysis Microservice;
+* <code>http://localhost:5065:80</code> - Test Results Analysis Microservice;
 
-* <code>localhost:5082:80</code> - Test Results Generation Microservice;
+* <code>http://localhost:5082:80</code> - Test Results Generation Microservice;
 
-* <code>localhost:8000:80</code> - Test Parser Microservice;
+* <code>http://localhost:8000:80</code> - Test Parser Microservice;
 
 
 ## Полезные ссылки
