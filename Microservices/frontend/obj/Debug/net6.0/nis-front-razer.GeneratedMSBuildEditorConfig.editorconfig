@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = nis_front_razer
 build_property.RootNamespace = nis_front_razer
-build_property.ProjectDir = /Users/ginalig/Projects/nis-front-razer/
+build_property.ProjectDir = /Users/nktrtmv/Desktop/Research-seminar/frontend/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/ginalig/Projects/nis-front-razer
+build_property.MSBuildProjectDirectory = /Users/nktrtmv/Desktop/Research-seminar/frontend
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/ginalig/Projects/nis-front-razer/Pages/Error.cshtml]
+[/Users/nktrtmv/Desktop/Research-seminar/frontend/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ginalig/Projects/nis-front-razer/Pages/Index.cshtml]
+[/Users/nktrtmv/Desktop/Research-seminar/frontend/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ginalig/Projects/nis-front-razer/Pages/Privacy.cshtml]
+[/Users/nktrtmv/Desktop/Research-seminar/frontend/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ginalig/Projects/nis-front-razer/Pages/Recommendations.cshtml]
+[/Users/nktrtmv/Desktop/Research-seminar/frontend/Pages/Recommendations.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVjb21tZW5kYXRpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ginalig/Projects/nis-front-razer/Pages/Results.cshtml]
+[/Users/nktrtmv/Desktop/Research-seminar/frontend/Pages/Results.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmVzdWx0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ginalig/Projects/nis-front-razer/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/nktrtmv/Desktop/Research-seminar/frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ginalig/Projects/nis-front-razer/Pages/Test.cshtml]
+[/Users/nktrtmv/Desktop/Research-seminar/frontend/Pages/Test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGVzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ginalig/Projects/nis-front-razer/Pages/User.cshtml]
+[/Users/nktrtmv/Desktop/Research-seminar/frontend/Pages/User.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ginalig/Projects/nis-front-razer/Pages/_ViewImports.cshtml]
+[/Users/nktrtmv/Desktop/Research-seminar/frontend/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ginalig/Projects/nis-front-razer/Pages/_ViewStart.cshtml]
+[/Users/nktrtmv/Desktop/Research-seminar/frontend/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ginalig/Projects/nis-front-razer/Pages/Shared/_Layout.cshtml]
+[/Users/nktrtmv/Desktop/Research-seminar/frontend/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2gayd0i18r

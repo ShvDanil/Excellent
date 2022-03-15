@@ -27,7 +27,7 @@ public class Test : PageModel
     {
         var client = new HttpClient();
         var response =
-            await client.GetAsync($"http://localhost:5022/TGM/get-new-test/{UserModel.Level}/{UserModel.Subject}");
+            await client.GetAsync($"http://172.17.0.1:5022/TGM/get-new-test/{UserModel.Level}/{UserModel.Subject}");
         var content = response.Content.ReadAsStringAsync().Result;
         System.IO.File.WriteAllText("test.json", content);
         TestModel = JsonSerializer.Deserialize<TestModel>(content);

@@ -25,7 +25,7 @@ public class Recommendations : PageModel
     public async Task OnGetAsync(Guid id, List<string> answers)
     {
         var response =
-            await Client.PostAsJsonAsync($"http://localhost:5065/TRAM/get-new-recommendations/", new {id, answers});
+            await Client.PostAsJsonAsync($"http://172.17.0.1:5065/TRAM/get-new-recommendations/", new {id, answers});
         var content = response.Content.ReadAsStringAsync().Result;
         RecommendationModel = JsonSerializer.Deserialize<RecommendationModel>(content);
         if (RecommendationModel != null) 

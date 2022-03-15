@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ginalig/Projects/nis-front-razer/nis-front-razer.csproj": {}
+    "/Users/nktrtmv/Desktop/Research-seminar/frontend/nis-front-razer.csproj": {}
   },
   "projects": {
-    "/Users/ginalig/Projects/nis-front-razer/nis-front-razer.csproj": {
+    "/Users/nktrtmv/Desktop/Research-seminar/frontend/nis-front-razer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ginalig/Projects/nis-front-razer/nis-front-razer.csproj",
+        "projectUniqueName": "/Users/nktrtmv/Desktop/Research-seminar/frontend/nis-front-razer.csproj",
         "projectName": "nis-front-razer",
-        "projectPath": "/Users/ginalig/Projects/nis-front-razer/nis-front-razer.csproj",
-        "packagesPath": "/Users/ginalig/.nuget/packages/",
-        "outputPath": "/Users/ginalig/Projects/nis-front-razer/obj/",
+        "projectPath": "/Users/nktrtmv/Desktop/Research-seminar/frontend/nis-front-razer.csproj",
+        "packagesPath": "/Users/nktrtmv/.nuget/packages/",
+        "outputPath": "/Users/nktrtmv/Desktop/Research-seminar/frontend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ginalig/.nuget/NuGet/NuGet.Config"
+          "/Users/nktrtmv/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

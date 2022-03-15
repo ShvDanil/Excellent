@@ -24,7 +24,7 @@ public class Results : PageModel
         s_Answers = answers;
         Id = id;
         var response =
-            await Client.PostAsJsonAsync($"http://localhost:5065/TRAM/get-new-recommendations/", new {id, answers});
+            await Client.PostAsJsonAsync($"http://172.17.0.1:5065/TRAM/get-new-recommendations/", new {id, answers});
         var content = response.Content.ReadAsStringAsync().Result;
         RecommendationModel = JsonSerializer.Deserialize<RecommendationModel>(content);
         Validations = RecommendationModel.validationCheck;
