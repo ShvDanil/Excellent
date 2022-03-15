@@ -400,3 +400,27 @@ https://user-images.githubusercontent.com/90272827/158327249-87b2f9e7-a33b-4dc4-
 
 ## Полезные ссылки
 
+Репозитории в докерхабе для процессоров <ins><code>arm</code></ins>:
+
+* https://hub.docker.com/repository/docker/nktrtmv/frontend/general
+
+* https://hub.docker.com/repository/docker/nktrtmv/tpm
+
+* https://hub.docker.com/repository/docker/nktrtmv/tgm
+
+* https://hub.docker.com/repository/docker/nktrtmv/trgm
+
+* https://hub.docker.com/repository/docker/nktrtmv/tram
+
+
+Репозитории в докерхабе для процессоров <ins><code>intel/amd</ins></code>:
+
+* https://hub.docker.com/repository/docker/nktrtmv/frontend2
+
+* https://hub.docker.com/repository/docker/nktrtmv/trgm2
+
+* https://hub.docker.com/repository/docker/nktrtmv/tram2
+
+* https://hub.docker.com/repository/docker/nktrtmv/tgm2
+
+* https://hub.docker.com/repository/docker/nktrtmv/tpm2
