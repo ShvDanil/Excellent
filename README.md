@@ -356,50 +356,23 @@ II. Запрос подключает необходимые для работы
 
 Далее необходимо вводить команды по порядку: 
 
-<code>  cd TPM
-	
+	cd TPM
 	docker build -t tpm .
-	
 	cd ..
+	cd TRAM/TRAM
+	docker build -t tram .
+	cd ../..
+	cd TRGM/TRGM
+	docker build -t trgm .
+	cd ../..
+	cd TGM/TGM
+	docker build -t tgm .
+	cd ../..
 	
-	cd TRAM</code>
+	docker-compose up
 
-<code>cd TPM</code>
-<code>docker build -t tpm .</code>
-<code>cd ..</code>
-<code>cd TRAM</code>
 
-* <code>cd TRAM</code>
-
-* <code>docker build -t tram .</code>
-
-* <code>cd ..</code>
-
-* <code>cd ..</code>
-
-* <code>cd TRGM</code>
-
-* <code>cd TRGM</code>
-
-* <code>docker build -t trgm .</code>
-
-* <code>cd ..</code>
-
-* <code>cd ..</code>
-
-* <code>cd TGM</code>
-
-* <code>cd TGM</code>
-
-* <code>docker build -t tgm .</code>
-
-* <code>cd ..</code>
-
-* <code>cd ..</code>
-
-* <code>docker-compose up</code>
-
-Для запуска приложения нужно перейти по ссылке: http://localhost:7001
+Для запуска приложения нужно перейти по ссылке: <code>http://localhost:7001</code>
 
 
 
