@@ -354,16 +354,15 @@ II. Запрос подключает необходимые для работы
 
 В терминале необходимо перейти в директорию проекта (Excellent/Microservices)
 Далее необходимо вводить команды по порядку: 
-<code>
-cd TPM
+<code>cd TPM</code>
 
-docker build -t tpm .
+<code>docker build -t tpm .</code>
 
-cd ..
+<code>cd ..</code>
 
-cd TRAM
+<code>cd TRAM</code>
 
-cd TRAM
+<code>cd TRAM</code>
 
 docker build -t tram .
 
