@@ -356,8 +356,8 @@ II. Запрос подключает необходимые для работы
 
 Далее необходимо вводить команды по порядку: 
 	
-	// to install images of each microservice:
-	
+* Чтобы создать образ каждого микросервиса в Docker:
+
 	cd TPM
 	docker build -t tpm .
 	cd ..
@@ -374,19 +374,19 @@ II. Запрос подключает необходимые для работы
 	docker build -t frontend .
 	cd ..
 	
-	// to launch web application:
+* Чтобы запустить веб-приложение:
 	
 	docker-compose up
 
 
 Для запуска приложения нужно перейти по ссылке: <code>http://localhost:7001</code>
 
-Видео работы в терминале:
+Видео работы в <ins>терминале</ins>:
 
 https://user-images.githubusercontent.com/90272827/158327249-87b2f9e7-a33b-4dc4-88e2-543363cc56bc.mp4
 
 
-Swagger-документация самих сервисов, отвечающих за backend, должна быть доступны по следующим адресам:
+<ins>Swagger-документация</ins> самих сервисов, отвечающих за backend, должна быть доступны по следующим адресам:
 
 * <code>http://localhost:5022/swagger/index.html</code> - Test Generation Microservice;
 
