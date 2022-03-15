@@ -356,6 +356,11 @@ II. Запрос подключает необходимые для работы
 
 Далее необходимо вводить команды по порядку: 
 
+<code>  cd TPM
+	docker build -t tpm .
+	cd ..
+	cd TRAM</code>
+
 <code>cd TPM</code>
 <code>docker build -t tpm .</code>
 <code>cd ..</code>
