@@ -24,3 +24,9 @@ services:
     build: .
     ports:
         - "8000:80"
+
+  frontend:
+    image: frontend
+    build: .
+    ports:
+        - "7001:80"
