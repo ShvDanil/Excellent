@@ -370,6 +370,9 @@ II. Запрос подключает необходимые для работы
 	cd TGM/TGM
 	docker build -t tgm .
 	cd ../..
+	cd frontend
+	docker build -t frontend .
+	cd ..
 	
 	//to launch web application:
 	
@@ -378,8 +381,7 @@ II. Запрос подключает необходимые для работы
 
 Для запуска приложения нужно перейти по ссылке: <code>http://localhost:7001</code>
 
-
-
+Видео <u>работы в терминале</u> по установке и запуске:
 https://user-images.githubusercontent.com/90272827/158327249-87b2f9e7-a33b-4dc4-88e2-543363cc56bc.mp4
 
 
