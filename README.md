@@ -352,10 +352,12 @@ II. Запрос подключает необходимые для работы
 ### Инструкция к запуску
 Все четыре сервиса и фронтенд, написанный для демонстрации работы API, находятся в данном репозитории в папке Microservices. Скачав данную папку, их можно запустить с помощью Docker Compose.
 
-В терминале необходимо перейти в директорию проекта (Excellent/Microservices)
+В терминале необходимо перейти в директорию проекта <code>Excellent/Microservices</code>
 
 Далее необходимо вводить команды по порядку: 
-
+	
+	//to install images of each microservice:
+	
 	cd TPM
 	docker build -t tpm .
 	cd ..
@@ -368,6 +370,8 @@ II. Запрос подключает необходимые для работы
 	cd TGM/TGM
 	docker build -t tgm .
 	cd ../..
+	
+	//to launch web application:
 	
 	docker-compose up
 
