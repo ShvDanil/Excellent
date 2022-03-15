@@ -386,15 +386,15 @@ II. Запрос подключает необходимые для работы
 https://user-images.githubusercontent.com/90272827/158327249-87b2f9e7-a33b-4dc4-88e2-543363cc56bc.mp4
 
 
-Сами сервисы, отвечающие за backend, должны быть доступны по следующим адресам:
+Swagger-документация самих сервисов, отвечающих за backend, должна быть доступны по следующим адресам:
 
-* <code>http://localhost:5022:80</code> - Test Generation Microservice;
+* <code>http://localhost:5022/swagger/index.html</code> - Test Generation Microservice;
 
-* <code>http://localhost:5065:80</code> - Test Results Analysis Microservice;
+* <code>http://localhost:5065/swagger/index.html</code> - Test Results Analysis Microservice;
 
-* <code>http://localhost:5082:80</code> - Test Results Generation Microservice;
+* <code>http://localhost:5082/swagger/index.html</code> - Test Results Generation Microservice;
 
-* <code>http://localhost:8000:80</code> - Test Parser Microservice;
+* <code>http://localhost:8000/docs</code> - Test Parser Microservice;
 
 
 ## Полезные ссылки
