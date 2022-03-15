@@ -5,7 +5,7 @@
 
 ## API для сервисов по поиску учеников и репетиторов
 В этом репозитории описано решение кейса **"Excellent — API для сервисов по поиску учеников и репетиторов"**.
-В нем будет информация о доменной области проекта, юз-кейсах, функциональных и нефункциональных требованиях, компонентной модели, предлагаемых архитектурах и паттернах решения, дизайне решения, а также Docker, инструкция к запуску и полезные ссылки.
+В нем будет информация о доменной области проекта, юз-кейсах, функциональных и нефункциональных требованиях, компонентной модели, предлагаемых архитектурах и паттернах решения, дизайне решения, а также Docker, инструкция к запуску и рекомендации разработчикам.
 
 
 ## Содержание
@@ -23,7 +23,7 @@
 
 * [Docker Compose и инструкция к запуску](./README.md#Docker-Compose-и-инструкция-к-запуску)
 
-* [Полезные ссылки](./README.md#Полезные-ссылки)
+* [Рекомендации разработчикам](./README.md#Рекомендации-разработчикам)
 
 
 ## Описание доменной области
@@ -398,29 +398,26 @@ https://user-images.githubusercontent.com/90272827/158327249-87b2f9e7-a33b-4dc4-
 * <code>http://localhost:8000/docs</code> - Test Parser Microservice;
 
 
-## Полезные ссылки
+## Рекомендации разработчикам
 
-Репозитории в докерхабе для процессоров <ins><code>arm</code></ins>:
+Чтобы сделать pull репозиториев из <ins><code>Docker Hub</code></ins>, ввести (для <ins>arm</ins>):
+```
+docker pull nktrtmv/tgm
+docker pull nktrtmv/tpm
+docker pull nktrtmv/tram
+docker pull nktrtmv/trgm
+docker pull nktrtmv/frontend
+```
 
-* https://hub.docker.com/repository/docker/nktrtmv/frontend/general
+Чтобы сделать pull репозиториев из <ins><code>Docker Hub</ins></code>, ввести (для <ins>intel и amd</ins>):
+```    
+docker pull nktrtmv/tgm2
+docker pull nktrtmv/tpm2
+docker pull nktrtmv/tram2
+docker pull nktrtmv/trgm2
+docker pull nktrtmv/frontend2
+```
 
-* https://hub.docker.com/repository/docker/nktrtmv/tpm
+Далее для запуска через <code>docker-compose up</code> нужно изменить файл <ins>docker-compose.yml</ins>, а точнее образы в нем на соответсвующие, то есть tgm -> nktrtmv/tgm(2)
 
-* https://hub.docker.com/repository/docker/nktrtmv/tgm
-
-* https://hub.docker.com/repository/docker/nktrtmv/trgm
-
-* https://hub.docker.com/repository/docker/nktrtmv/tram
-
-
-Репозитории в докерхабе для процессоров <ins><code>intel/amd</ins></code>:
-
-* https://hub.docker.com/repository/docker/nktrtmv/frontend2
-
-* https://hub.docker.com/repository/docker/nktrtmv/trgm2
-
-* https://hub.docker.com/repository/docker/nktrtmv/tram2
-
-* https://hub.docker.com/repository/docker/nktrtmv/tgm2
-
-* https://hub.docker.com/repository/docker/nktrtmv/tpm2
+То есть дописать в начало nktrtmv/ и двойку в конец при необходимости.
